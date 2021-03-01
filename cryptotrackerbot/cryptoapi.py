@@ -1,5 +1,5 @@
-# CryptoTrackerBot - check cryptocurrencies prices on telegram
-# Copyright (C) 2018  Dario 91DarioDev <dariomsn@hotmail.it> <github.com/91dariodev>
+# YungWnsvot - check cryptocurrencies prices on telegram
+# Copyright (C) 2021  JasonCopper <jcopper2020@gmail.com> 
 #
 # CryptoTrackerBot is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published
